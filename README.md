@@ -1,24 +1,14 @@
 # vue3-persistedstate
 
-## Project setup
+## Install
 ```
-yarn install
+npm install --save vue3-persistedstate
 ```
-
-### Compiles and hot-reloads for development
+or
 ```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
+yarn add --save vue3-persistedstate
 ```
 
-### Lints and fixes files
-```
-yarn lint
-```
+## Usage
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+todo
